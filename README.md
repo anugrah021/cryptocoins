@@ -1,0 +1,2 @@
+# cryptocoins
+Tea testnet
